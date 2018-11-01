@@ -1,0 +1,14 @@
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\TDD.UnitTestProject.deps.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\TDD.UnitTestProject.runtimeconfig.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\TDD.UnitTestProject.runtimeconfig.dev.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\TDD.UnitTestProject.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\bin\Debug\netcoreapp2.1\TDD.UnitTestProject.pdb
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.AssemblyInfoInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.AssemblyInfo.cs
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.UnitTestProject\obj\Debug\netcoreapp2.1\TDD.UnitTestProject.pdb

@@ -1,0 +1,16 @@
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.App.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.csproj.CoreCompileInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.AssemblyInfoInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.AssemblyInfo.cs
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.Tests.deps.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.Tests.runtimeconfig.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.Tests.runtimeconfig.dev.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.Tests.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.Tests.pdb
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\bin\Debug\netcoreapp2.1\TDD.App.pdb
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.pdb
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.Tests\obj\Debug\netcoreapp2.1\TDD.Tests.csprojResolveAssemblyReference.cache

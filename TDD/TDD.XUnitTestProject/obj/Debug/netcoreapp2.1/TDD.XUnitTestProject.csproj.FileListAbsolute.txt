@@ -1,0 +1,14 @@
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\TDD.XUnitTestProject.deps.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\TDD.XUnitTestProject.runtimeconfig.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\TDD.XUnitTestProject.runtimeconfig.dev.json
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\TDD.XUnitTestProject.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\bin\Debug\netcoreapp2.1\TDD.XUnitTestProject.pdb
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.csprojResolveAssemblyReference.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.csproj.CoreCompileInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.AssemblyInfoInputs.cache
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.AssemblyInfo.cs
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.dll
+D:\Personal\SampleProject\AspNetCore\TDD\TDD\TDD.XUnitTestProject\obj\Debug\netcoreapp2.1\TDD.XUnitTestProject.pdb
